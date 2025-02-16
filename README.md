@@ -1,7 +1,5 @@
 
 
----
-
 # 📢 Projeto: Buzzer com Raspberry Pi Pico  
 
 Este projeto implementa um **buzzer** acionado por um **botão** usando o **Raspberry Pi Pico**. O código utiliza **PWM (Pulse Width Modulation)** para controlar a frequência do som gerado pelo buzzer.  
@@ -60,3 +58,8 @@ Este projeto implementa um **buzzer** acionado por um **botão** usando o **Rasp
 - Integrar com **outros sensores ou LEDs** para um projeto mais avançado.  
 
 ---
+
+## 🎥 Demonstração  
+
+Assista à demonstração prática do projeto neste vídeo:  
+🔗 **[Clique aqui para assistir](https://share.icloud.com/photos/016ABZsKUUhCKVbU5E0Xl0nIA)**  
